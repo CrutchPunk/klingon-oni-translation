@@ -1,0 +1,98 @@
+msgid ""
+"Project-Id-Version: Oxygen Not Included\n"
+"POT-Creation-Date: 2025-09-08 23:00-0600\n"
+"PO-Revision-Date: 2025-09-08 23:00-0600\n"
+"Last-Translator: Cascade\n"
+"Language-Team: Klingon\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tlh\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# Main Menu
+msgctxt "STRINGS.UI.FRONTEND.NAV_DEFAULT.NEWGAME"
+msgid "NEW GAME"
+msgstr "QItI'ngan chu'"
+
+msgctxt "STRINGS.UI.FRONTEND.NAV_DEFAULT.LOADGAME"
+msgid "LOAD GAME"
+msgstr "QItI'ngan yIchenmoH"
+
+msgctxt "STRINGS.UI.FRONTEND.NAV_DEFAULT.OPTIONS"
+msgid "OPTIONS"
+msgstr "chenmey"
+
+msgctxt "STRINGS.UI.FRONTEND.NAV_DEFAULT.QUIT"
+msgid "QUIT"
+msgstr "yImej"
+
+# Game Modes
+msgctxt "STRINGS.UI.FRONTEND.NAV_DEFAULT.SURVIVAL"
+msgid "SURVIVAL"
+msgstr "yItaH"
+
+# Common UI
+msgctxt "STRINGS.UI.FRONTEND.NAV_DEFAULT.CONFIRM"
+msgid "CONFIRM"
+msgstr "jImej"
+
+msgctxt "STRINGS.UI.FRONTEND.NAV_DEFAULT.CANCEL"
+msgid "CANCEL"
+msgstr "yImej"
+
+msgctxt "STRINGS.UI.FRONTEND.NAV_DEFAULT.BACK"
+msgid "BACK"
+msgstr "chegh"
+
+# Game Modes
+msgctxt "STRINGS.UI.FRONTEND.NAV_DEFAULT.NOSWEAT"
+msgid "NO SWEAT"
+msgstr "Qapbe'choH"
+
+# Colony Summary
+msgctxt "STRINGS.UI.FRONTEND.COLONY_SUMMARY_SCREEN.TITLE"
+msgid "COLONY SUMMARY"
+msgstr "QItI'ngan ta'"
+
+# Resources
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.ALUMINUM_ORE.NAME"
+msgid "Aluminum Ore"
+msgstr "'alI'ymey qut"
+
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.COPPER_ORE.NAME"
+msgid "Copper Ore"
+msgstr "Sorpuq qut"
+
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS.IRON_ORE.NAME"
+msgid "Iron Ore"
+msgstr "'uSqan qut"
+
+# Elements
+msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
+msgid "Oxygen"
+msgstr "OkSIDIyen"
+
+msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
+msgid "Hydrogen"
+msgstr "HIyDra'jen"
+
+msgctxt "STRINGS.ELEMENTS.WATER.NAME"
+msgid "Water"
+msgstr "bIQ"
+
+# Building Categories
+msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE"
+msgid "Base"
+msgstr "yoD"
+
+msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER"
+msgid "Power"
+msgstr "HoH"
+
+msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING"
+msgid "Plumbing"
+msgstr "bIQ 'oH"

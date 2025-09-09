@@ -1,0 +1,141 @@
+# Klingon Translation - Core UI Elements
+# tlhIngan Hol mugh - nugh DIch nugh
+msgid ""
+msgstr ""
+"Project-Id-Version: ONI Klingon Core UI\n"
+"Language: tlh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Main Menu
+msgid "STRINGS.UI.FRONTEND.MAINMENU.NEWGAME"
+msgstr "nugh naDev"
+
+msgid "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME" 
+msgstr "nugh choq"
+
+msgid "STRINGS.UI.FRONTEND.MAINMENU.QUITGAME"
+msgstr "nugh mev"
+
+msgid "STRINGS.UI.FRONTEND.MAINMENU.OPTIONS"
+msgstr "wuq"
+
+msgid "STRINGS.UI.FRONTEND.MAINMENU.TUTORIAL"
+msgstr "ghojmeH mI'"
+
+# Speed Controls
+msgid "STRINGS.UI.SPEEDCONTROLSCREEN.PAUSE"
+msgstr "mev"
+
+msgid "STRINGS.UI.SPEEDCONTROLSCREEN.SLOW"
+msgstr "nugh"
+
+msgid "STRINGS.UI.SPEEDCONTROLSCREEN.MEDIUM" 
+msgstr "DIch"
+
+msgid "STRINGS.UI.SPEEDCONTROLSCREEN.FAST"
+msgstr "nom"
+
+# Common Actions
+msgid "STRINGS.UI.USERMENUACTIONS.MOVE.NAME"
+msgstr "yap"
+
+msgid "STRINGS.UI.USERMENUACTIONS.DIG.NAME"
+msgstr "jup"
+
+msgid "STRINGS.UI.USERMENUACTIONS.BUILD.NAME"
+msgstr "chenmoH"
+
+msgid "STRINGS.UI.USERMENUACTIONS.RESEARCH.NAME"
+msgstr "pagh"
+
+msgid "STRINGS.UI.USERMENUACTIONS.HARVEST.NAME"
+msgstr "DIch"
+
+msgid "STRINGS.UI.USERMENUACTIONS.ATTACK.NAME"
+msgstr "HIv"
+
+msgid "STRINGS.UI.USERMENUACTIONS.CAPTURE.NAME"
+msgstr "jon"
+
+msgid "STRINGS.UI.USERMENUACTIONS.RANCH.NAME"
+msgstr "DIch nugh"
+
+# Priority System
+msgid "STRINGS.UI.PRIORITYSCREEN.PRIORITY1"
+msgstr "DIch wa'"
+
+msgid "STRINGS.UI.PRIORITYSCREEN.PRIORITY2"
+msgstr "DIch cha'"
+
+msgid "STRINGS.UI.PRIORITYSCREEN.PRIORITY3"
+msgstr "DIch wej"
+
+msgid "STRINGS.UI.PRIORITYSCREEN.PRIORITY4"
+msgstr "DIch loS"
+
+msgid "STRINGS.UI.PRIORITYSCREEN.PRIORITY5"
+msgstr "DIch vagh"
+
+msgid "STRINGS.UI.PRIORITYSCREEN.PRIORITY6"
+msgstr "DIch jav"
+
+msgid "STRINGS.UI.PRIORITYSCREEN.PRIORITY7"
+msgstr "DIch Soch"
+
+msgid "STRINGS.UI.PRIORITYSCREEN.PRIORITY8"
+msgstr "DIch chorgh"
+
+msgid "STRINGS.UI.PRIORITYSCREEN.PRIORITY9"
+msgstr "DIch Hut"
+
+# Common Buttons
+msgid "STRINGS.UI.CONFIRMDIALOG.OK"
+msgstr "lu'"
+
+msgid "STRINGS.UI.CONFIRMDIALOG.CANCEL"
+msgstr "DIch"
+
+msgid "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE"
+msgstr "choq"
+
+msgid "STRINGS.UI.FRONTEND.LOADSCREEN.LOAD"
+msgstr "DIch"
+
+msgid "STRINGS.UI.FRONTEND.LOADSCREEN.DELETE"
+msgstr "DIch"
+
+# Resource Headers
+msgid "STRINGS.UI.OVERLAYS.OXYGEN.TITLE"
+msgstr "nugh nugh"
+
+msgid "STRINGS.UI.OVERLAYS.POWER.TITLE"
+msgstr "HoS"
+
+msgid "STRINGS.UI.OVERLAYS.TEMPERATURE.TITLE"
+msgstr "tugh DIch"
+
+msgid "STRINGS.UI.OVERLAYS.MATERIALS.TITLE"
+msgstr "DIch nugh"
+
+msgid "STRINGS.UI.OVERLAYS.LIGHT.TITLE"
+msgstr "wov"
+
+msgid "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TITLE"
+msgstr "bIQ DIch"
+
+msgid "STRINGS.UI.OVERLAYS.GASPLUMBING.TITLE"
+msgstr "nugh DIch"
+
+msgid "STRINGS.UI.OVERLAYS.DECOR.TITLE"
+msgstr "DIch nugh"
+
+msgid "STRINGS.UI.OVERLAYS.DISEASE.TITLE"
+msgstr "rop"
+
+msgid "STRINGS.UI.OVERLAYS.CROPS.TITLE"
+msgstr "DIch nugh"
+
+msgid "STRINGS.UI.OVERLAYS.ROOMS.TITLE"
+msgstr "pa'"

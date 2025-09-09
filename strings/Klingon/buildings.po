@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included\n"
+"POT Version: 2.0\n"
+"Project-Id-Version: ONI Klingon Buildings\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: tlhIngan Hol\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language: tlh\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. STRINGS.BUILDINGS.PREFABS.OXYGENDIFFUSER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENDIFFUSER.NAME"
+msgid "Oxygen Diffuser"
+msgstr "nugh nugh naDmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.OXYGENDIFFUSER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENDIFFUSER.DESC"
+msgid "Oxygen diffusers are inefficient, but output enough oxygen to keep a few duplicants breathing."
+msgstr "nugh nugh naDmeH jan DIch pagh 'ach nugh chenmoHwI' DIch nugh nugh nugh."
+
+#. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
+msgid "Electrolyzer"
+msgstr "bIQ DIch chenmoHmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
+msgid "Electrolyzers produce oxygen and hydrogen from water."
+msgstr "bIQ DIch chenmoHmeH jan bIQ vo' nugh nugh je nugh DIch je chenmoH."
+
+#. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
+msgid "Coal Generator"
+msgstr "megh HoS chenmoHmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC"
+msgid "Generators burn coal to produce electrical power."
+msgstr "HoS chenmoHmeH jan megh DIch 'e' HoS chenmoH."
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.NAME"
+msgid "Manual Generator"
+msgstr "ghap HoS chenmoHmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
+msgid "Manual generators must be operated by a duplicant to produce power."
+msgstr "ghap HoS chenmoHmeH jan lo'meH nugh chenmoHwI' DIch."
+
+#. STRINGS.BUILDINGS.PREFABS.BATTERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.NAME"
+msgid "Battery"
+msgstr "HoS polmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.BATTERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.DESC"
+msgid "Batteries store electrical power for later use."
+msgstr "HoS polmeH jan HoS choq 'e' DIch naDev lo'."
+
+#. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
+msgid "Research Station"
+msgstr "pagh Daq"
+
+#. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.DESC"
+msgid "Research stations are necessary to unlock new technologies."
+msgstr "pagh Daq lo'taHvIS nugh DIch tu'lu'."
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
+msgid "Super Computer"
+msgstr "DIch jup'e'"
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
+msgid "Super computers unlock advanced technologies and require water coolant."
+DIch jup'e' nugh DIch tu' 'ej bIQ DIch DIch."
+
+#. STRINGS.BUILDINGS.PREFABS.PRINTINGPOD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRINTINGPOD.NAME"
+msgid "Printing Pod"
+msgstr "nugh chenmoHmeH DIch"
+
+#. STRINGS.BUILDINGS.PREFABS.PRINTINGPOD.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRINTINGPOD.DESC"
+msgid "Printing pods can produce new duplicants and care packages."
+msgstr "nugh chenmoHmeH DIch nugh chenmoHwI' naDev je chenmoH."
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.NAME"
+msgid "Liquid Pump"
+msgstr "bIQ naDmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC"
+msgid "Liquid pumps move liquids through pipe systems."
+msgstr "bIQ naDmeH jan bIQ DIch DIch nugh."
+
+#. STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME"
+msgid "Gas Pump"
+msgstr "nugh naDmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
+msgid "Gas pumps move gases through ventilation systems."
+msgstr "nugh naDmeH jan nugh DIch DIch nugh."
+
+#. STRINGS.BUILDINGS.PREFABS.LADDER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.NAME"
+msgid "Ladder"
+msgstr "DIch Dub"
+
+#. STRINGS.BUILDINGS.PREFABS.LADDER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.DESC"
+msgid "Ladders allow duplicants to climb to higher areas."
+msgstr "DIch Dub lo'taHvIS nugh chenmoHwI' Dub Daq DIch."
+
+#. STRINGS.BUILDINGS.PREFABS.TILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
+msgid "Tile"
+msgstr "DIch nugh"
+
+#. STRINGS.BUILDINGS.PREFABS.TILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.DESC"
+msgid "Tiles are used to build floors, walls, and other structures."
+msgstr "DIch nugh lo'taHvIS DIch, DIch, DIch nugh je chenmoH."
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
+msgid "Pneumatic Door"
+msgstr "nugh lojmIt"
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.DESC"
+msgid "Pneumatic doors open and close automatically as duplicants approach."
+msgstr "nugh lojmIt nugh chenmoHwI' DIch DIch DIch DIch."
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALDOOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALDOOR.NAME"
+msgid "Manual Airlock"
+msgstr "ghap nugh DIch"
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALDOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALDOOR.DESC"
+msgid "Manual airlocks must be opened and closed by duplicants."
+msgstr "ghap nugh DIch DIch DIch nugh chenmoHwI' DIch."
+
+#. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.NAME"
+msgid "Outhouse"
+msgstr "DIch nugh pa'"
+
+#. STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.OUTHOUSE.DESC"
+msgid "Outhouses provide basic bathroom facilities for duplicants."
+msgstr "DIch nugh pa' nugh chenmoHwI' DIch nugh DIch."
+
+#. STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.NAME"
+msgid "Wash Basin"
+msgstr "DIch DIch"
+
+#. STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.WASHBASIN.DESC"
+msgid "Wash basins allow duplicants to improve their hygiene."
+msgstr "DIch DIch lo'taHvIS nugh chenmoHwI' DIch DIch."
+
+#. STRINGS.BUILDINGS.PREFABS.BED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.BED.NAME"
+msgid "Cot"
+msgstr "Qob Daq"
+
+#. STRINGS.BUILDINGS.PREFABS.BED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
+msgid "Cots provide a place for duplicants to sleep."
+msgstr "Qob Daq nugh chenmoHwI' Qob DIch."
+
+#. STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.NAME"
+msgid "Ration Box"
+msgstr "Soj DIch"
+
+#. STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.RATIONBOX.DESC"
+msgid "Ration boxes store food for duplicant consumption."
+msgstr "Soj DIch Soj choq nugh chenmoHwI' Soj."

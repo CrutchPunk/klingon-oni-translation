@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included\n"
+"POT Version: 2.0\n"
+"Project-Id-Version: ONI Klingon Translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: tlhIngan Hol\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language: tlh\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+# Basic UI Elements
+msgid "STRINGS.UI.FRONTEND.MAINMENU.NEWGAME"
+msgstr "nugh naDev"
+
+msgid "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
+msgstr "nugh choq"
+
+msgid "STRINGS.UI.FRONTEND.MAINMENU.QUITGAME"
+msgstr "nugh mev"
+
+msgid "STRINGS.UI.FRONTEND.MAINMENU.OPTIONS"
+msgstr "wuq"
+
+# Game Elements
+msgid "STRINGS.ELEMENTS.OXYGEN.NAME"
+msgstr "nugh nugh"
+
+msgid "STRINGS.ELEMENTS.WATER.NAME"
+msgstr "bIQ"
+
+msgid "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
+msgstr "nugh Hur"
+
+# Duplicants
+msgid "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
+msgstr "mI'"
+
+msgid "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
+msgstr "nugh chenmoH"
+
+# Buildings
+msgid "STRINGS.BUILDINGS.PREFABS.OXYGENDIFFUSER.NAME"
+msgstr "nugh nugh nugh chenmoHmeH jan"
+
+msgid "STRINGS.BUILDINGS.PREFABS.OXYGENDIFFUSER.DESC"
+msgstr "nugh nugh chenmoH 'e' nugh"
+
+# Research
+msgid "STRINGS.RESEARCH.TECHS.JOBS.NAME"
+msgstr "DIch"
+
+msgid "STRINGS.RESEARCH.TECHS.JOBS.DESC"
+msgstr "DIch nugh chenmoH"
+
+# Status Items
+msgid "STRINGS.CREATURES.STATUSITEMS.HEALTH.NAME"
+msgstr "yap"
+
+msgid "STRINGS.CREATURES.STATUSITEMS.STRESS.NAME"
+msgstr "Doy'"
+
+msgid "STRINGS.CREATURES.STATUSITEMS.HUNGER.NAME"
+msgstr "ghung"
+
+# Common Actions
+msgid "STRINGS.UI.USERMENUACTIONS.MOVE.NAME"
+msgstr "yap"
+
+msgid "STRINGS.UI.USERMENUACTIONS.DIG.NAME"
+msgstr "jup"
+
+msgid "STRINGS.UI.USERMENUACTIONS.BUILD.NAME"
+msgstr "chenmoH"
+
+msgid "STRINGS.UI.USERMENUACTIONS.RESEARCH.NAME"
+msgstr "pagh"
+
+# Resources
+msgid "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
+msgstr "naQ Soj"
+
+msgid "STRINGS.ITEMS.FOOD.MUSHBAR.DESC"
+msgstr "naDev Soj 'e' nugh"
+
+# Time/Cycles
+msgid "STRINGS.UI.OVERLAYS.OXYGEN.CYCLE"
+msgstr "ram"
+
+msgid "STRINGS.UI.OVERLAYS.OXYGEN.DAY"
+msgstr "jaj"
+
+msgid "STRINGS.UI.OVERLAYS.OXYGEN.NIGHT"
+msgstr "ram"

@@ -1,0 +1,483 @@
+msgid ""
+msgstr ""
+"Application: Oxygen Not Included\n"
+"POT Version: 2.0\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: \n"
+"Language: tlh\n"
+
+#. STRINGS.UI.FRONTEND.MAINMENU.NEWGAME
+msgctxt "STRINGS.UI.FRONTEND.MAINMENU.NEWGAME"
+msgid "NEW GAME"
+msgstr "nugh naDev"
+
+#. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
+msgctxt "STRINGS.UI.FRONTEND.MAINMENU.LOADGAME"
+msgid "LOAD GAME"
+msgstr "nugh choq"
+
+#. STRINGS.UI.FRONTEND.MAINMENU.QUITGAME
+msgctxt "STRINGS.UI.FRONTEND.MAINMENU.QUITGAME"
+msgid "QUIT GAME"
+msgstr "nugh mev"
+
+#. STRINGS.UI.FRONTEND.MAINMENU.OPTIONS
+msgctxt "STRINGS.UI.FRONTEND.MAINMENU.OPTIONS"
+msgid "OPTIONS"
+msgstr "wuq"
+
+#. STRINGS.UI.CONFIRMDIALOG.OK
+msgctxt "STRINGS.UI.CONFIRMDIALOG.OK"
+msgid "OK"
+msgstr "lu'"
+
+#. STRINGS.UI.CONFIRMDIALOG.CANCEL
+msgctxt "STRINGS.UI.CONFIRMDIALOG.CANCEL"
+msgid "CANCEL"
+msgstr "DIch"
+
+#. STRINGS.UI.CONFIRMDIALOG.YES
+msgctxt "STRINGS.UI.CONFIRMDIALOG.YES"
+msgid "YES"
+msgstr "HIja'"
+
+#. STRINGS.UI.CONFIRMDIALOG.NO
+msgctxt "STRINGS.UI.CONFIRMDIALOG.NO"
+msgid "NO"
+msgstr "ghobe'"
+
+#. STRINGS.UI.SPEEDCONTROLSCREEN.PAUSE
+msgctxt "STRINGS.UI.SPEEDCONTROLSCREEN.PAUSE"
+msgid "PAUSE"
+msgstr "mev"
+
+#. STRINGS.UI.SPEEDCONTROLSCREEN.SLOW
+msgctxt "STRINGS.UI.SPEEDCONTROLSCREEN.SLOW"
+msgid "SLOW"
+msgstr "nugh"
+
+#. STRINGS.UI.SPEEDCONTROLSCREEN.MEDIUM
+msgctxt "STRINGS.UI.SPEEDCONTROLSCREEN.MEDIUM"
+msgid "MEDIUM"
+msgstr "DIch"
+
+#. STRINGS.UI.SPEEDCONTROLSCREEN.FAST
+msgctxt "STRINGS.UI.SPEEDCONTROLSCREEN.FAST"
+msgid "FAST"
+msgstr "nom"
+
+#. STRINGS.ELEMENTS.OXYGEN.NAME
+msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
+msgid "Oxygen"
+msgstr "nugh nugh"
+
+#. STRINGS.ELEMENTS.WATER.NAME
+msgctxt "STRINGS.ELEMENTS.WATER.NAME"
+msgid "Water"
+msgstr "bIQ"
+
+#. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
+msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
+msgid "Carbon Dioxide"
+msgstr "nugh Hur"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
+msgid "Meep"
+msgstr "mI'"
+
+#. STRINGS.UI.USERMENUACTIONS.MOVE.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.MOVE.NAME"
+msgid "MOVE"
+msgstr "yap"
+
+#. STRINGS.UI.USERMENUACTIONS.DIG.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.NAME"
+msgid "DIG"
+msgstr "jup"
+
+#. STRINGS.UI.USERMENUACTIONS.BUILD.NAME
+msgctxt "STRINGS.UI.USERMENUACTIONS.BUILD.NAME"
+msgid "BUILD"
+msgstr "chenmoH"
+
+#. STRINGS.UI.OVERLAYS.OXYGEN.TITLE
+msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TITLE"
+msgid "OXYGEN"
+msgstr "nugh nugh"
+
+#. STRINGS.UI.OVERLAYS.POWER.TITLE
+msgctxt "STRINGS.UI.OVERLAYS.POWER.TITLE"
+msgid "POWER"
+msgstr "HoS"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.TITLE
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TITLE"
+msgid "TEMPERATURE"
+msgstr "tugh DIch"
+
+#. STRINGS.UI.OVERLAYS.MATERIALS.TITLE
+msgctxt "STRINGS.UI.OVERLAYS.MATERIALS.TITLE"
+msgid "MATERIALS"
+msgstr "DIch nugh"
+
+#. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TITLE
+msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.TITLE"
+msgid "LIQUID PLUMBING"
+msgstr "bIQ DIch"
+
+#. STRINGS.UI.OVERLAYS.GASPLUMBING.TITLE
+msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TITLE"
+msgid "GAS PLUMBING"
+msgstr "nugh DIch"
+
+#. STRINGS.UI.OVERLAYS.DECOR.TITLE
+msgctxt "STRINGS.UI.OVERLAYS.DECOR.TITLE"
+msgid "DECOR"
+msgstr "DIch nugh"
+
+#. STRINGS.UI.OVERLAYS.DISEASE.TITLE
+msgctxt "STRINGS.UI.OVERLAYS.DISEASE.TITLE"
+msgid "DISEASE"
+msgstr "rop"
+
+#. STRINGS.UI.OVERLAYS.ROOMS.TITLE
+msgctxt "STRINGS.UI.OVERLAYS.ROOMS.TITLE"
+msgid "ROOMS"
+msgstr "pa'"
+
+#. STRINGS.BUILDINGS.PREFABS.OXYGENDIFFUSER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENDIFFUSER.NAME"
+msgid "Oxygen Diffuser"
+msgstr "nugh nugh naDmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
+msgid "Coal Generator"
+msgstr "megh HoS chenmoHmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.BATTERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.NAME"
+msgid "Battery"
+msgstr "HoS polmeH jan"
+
+#. STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.RESEARCHCENTER.NAME"
+msgid "Research Station"
+msgstr "pagh Daq"
+
+#. STRINGS.BUILDINGS.PREFABS.PRINTINGPOD.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.PRINTINGPOD.NAME"
+msgid "Printing Pod"
+msgstr "nugh chenmoHmeH DIch"
+
+#. STRINGS.DUPLICANTS.JOBS.RESEARCHER.NAME
+msgctxt "STRINGS.DUPLICANTS.JOBS.RESEARCHER.NAME"
+msgid "Researcher"
+msgstr "pagh"
+
+#. STRINGS.DUPLICANTS.JOBS.MINER.NAME
+msgctxt "STRINGS.DUPLICANTS.JOBS.MINER.NAME"
+msgid "Miner"
+msgstr "jupwI'"
+
+#. STRINGS.DUPLICANTS.JOBS.BUILDER.NAME
+msgctxt "STRINGS.DUPLICANTS.JOBS.BUILDER.NAME"
+msgid "Builder"
+msgstr "chenmoHwI'"
+
+#. STRINGS.DUPLICANTS.JOBS.COOK.NAME
+msgctxt "STRINGS.DUPLICANTS.JOBS.COOK.NAME"
+msgid "Cook"
+msgstr "nugh chenmoHwI'"
+
+#. STRINGS.CREATURES.STATUSITEMS.HEALTH.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HEALTH.NAME"
+msgid "Health"
+msgstr "yap"
+
+#. STRINGS.CREATURES.STATUSITEMS.STRESS.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.STRESS.NAME"
+msgid "Stress"
+msgstr "Doy'"
+
+#. STRINGS.CREATURES.STATUSITEMS.HUNGER.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HUNGER.NAME"
+msgid "Hunger"
+msgstr "ghung"
+
+#. STRINGS.CREATURES.STATUSITEMS.BLADDER.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BLADDER.NAME"
+msgid "Bladder"
+msgstr "DIch nugh"
+
+#. STRINGS.ELEMENTS.HYDROGEN.NAME
+msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
+msgid "Hydrogen"
+msgstr "nugh DIch"
+
+#. STRINGS.ELEMENTS.STEAM.NAME
+msgctxt "STRINGS.ELEMENTS.STEAM.NAME"
+msgid "Steam"
+msgstr "bIQ Dub"
+
+#. STRINGS.ELEMENTS.ICE.NAME
+msgctxt "STRINGS.ELEMENTS.ICE.NAME"
+msgid "Ice"
+msgstr "chuch"
+
+#. STRINGS.ELEMENTS.DIRT.NAME
+msgctxt "STRINGS.ELEMENTS.DIRT.NAME"
+msgid "Dirt"
+msgstr "pu'jIn"
+
+#. STRINGS.UI.PRIORITYSCREEN.PRIORITY1
+msgctxt "STRINGS.UI.PRIORITYSCREEN.PRIORITY1"
+msgid "Priority 1"
+msgstr "DIch wa'"
+
+#. STRINGS.UI.PRIORITYSCREEN.PRIORITY2
+msgctxt "STRINGS.UI.PRIORITYSCREEN.PRIORITY2"
+msgid "Priority 2"
+msgstr "DIch cha'"
+
+#. STRINGS.UI.PRIORITYSCREEN.PRIORITY3
+msgctxt "STRINGS.UI.PRIORITYSCREEN.PRIORITY3"
+msgid "Priority 3"
+msgstr "DIch wej"
+
+#. STRINGS.UI.PRIORITYSCREEN.PRIORITY9
+msgctxt "STRINGS.UI.PRIORITYSCREEN.PRIORITY9"
+msgid "Priority 9"
+msgstr "DIch Hut"
+
+#. STRINGS.MISC.NOTIFICATIONS.LOWOXYGEN.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.LOWOXYGEN.NAME"
+msgid "Low Oxygen"
+msgstr "nugh nugh puS"
+
+#. STRINGS.MISC.NOTIFICATIONS.NOFOOD.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NOFOOD.NAME"
+msgid "No Food"
+msgstr "Soj pagh"
+
+#. STRINGS.MISC.NOTIFICATIONS.NOPOWER.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.NOPOWER.NAME"
+msgid "No Power"
+msgstr "HoS pagh"
+
+#. STRINGS.RESEARCH.TECHS.JOBS.NAME
+msgctxt "STRINGS.RESEARCH.TECHS.JOBS.NAME"
+msgid "Employment"
+msgstr "DIch"
+
+#. STRINGS.RESEARCH.TECHS.BASICFARMTILES.NAME
+msgctxt "STRINGS.RESEARCH.TECHS.BASICFARMTILES.NAME"
+msgid "Basic Farming"
+msgstr "DIch nugh"
+
+#. STRINGS.RESEARCH.TECHS.FINEDINING.NAME
+msgctxt "STRINGS.RESEARCH.TECHS.FINEDINING.NAME"
+msgid "Meal Preparation"
+msgstr "Soj chenmoH"
+
+#. STRINGS.ITEMS.FOOD.MUSHBAR.NAME
+msgctxt "STRINGS.ITEMS.FOOD.MUSHBAR.NAME"
+msgid "Mush Bar"
+msgstr "naQ Soj"
+
+#. STRINGS.ITEMS.FOOD.LICELOAF.NAME
+msgctxt "STRINGS.ITEMS.FOOD.LICELOAF.NAME"
+msgid "Liceloaf"
+msgstr "DIch Soj"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
+msgid "Learning"
+msgstr "ghoj"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME"
+msgid "Construction"
+msgstr "chenmoH"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME"
+msgid "Digging"
+msgstr "jup"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME"
+msgid "Machinery"
+msgstr "DIch jan"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME"
+msgid "Athletics"
+msgstr "DIch nugh"
+
+#. STRINGS.DUPLICANTS.SCHEDULE.SLEEP
+msgctxt "STRINGS.DUPLICANTS.SCHEDULE.SLEEP"
+msgid "Sleep"
+msgstr "Qob"
+
+#. STRINGS.DUPLICANTS.SCHEDULE.WORK
+msgctxt "STRINGS.DUPLICANTS.SCHEDULE.WORK"
+msgid "Work"
+msgstr "jup"
+
+#. STRINGS.DUPLICANTS.SCHEDULE.EAT
+msgctxt "STRINGS.DUPLICANTS.SCHEDULE.EAT"
+msgid "Eat"
+msgstr "Soj"
+
+msgctxt "FRONTEND.CODEX"
+msgid "DATABASE"
+msgstr "qelI'qam"
+
+msgctxt "FRONTEND.MAINMENU"
+msgid "OPTIONS"
+msgstr "chenmoH"
+
+msgctxt "FRONTEND.MAINMENU"
+msgid "NEW GAME"
+msgstr "chu' Qon"
+
+msgctxt "FRONTEND.MAINMENU"
+msgid "LOAD GAME"
+msgstr "Qon yIghIt"
+
+# Common UI
+msgctxt "STRINGS.UI.FRONTEND.MODS.TITLE"
+msgid "MODS"
+msgstr "QaQmoHwI'mey"
+
+msgctxt "STRINGS.UI.FRONTEND.MODS.ENABLE_ALL"
+msgid "ENABLE ALL"
+msgstr "Hoch chenmoH"
+
+msgctxt "STRINGS.UI.FRONTEND.MODS.DISABLE_ALL"
+msgid "DISABLE ALL"
+msgstr "Hoch QoHmoH"
+
+# Game Elements
+msgctxt "STRINGS.UI.OVERLAYS"
+msgid "OXYGEN"
+msgstr "bIQtIq"
+
+msgctxt "STRINGS.UI.OVERLAYS"
+msgid "POWER"
+msgstr "qul"
+
+msgctxt "STRINGS.UI.OVERLAYS"
+msgid "TEMPERATURE"
+msgstr "SIS"
+
+# Resources
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS"
+msgid "REFINED METAL"
+msgstr "baS ba'qa'mey"
+
+msgctxt "STRINGS.ITEMS.INDUSTRIAL_PRODUCTS"
+msgid "METAL"
+msgstr "baS"
+
+# Duplicant Stats
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.QUALITYOFLIFE"
+msgid "MORALE"
+msgstr "QaQ"
+
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS"
+msgid "ATHLETICS"
+msgstr "QaQ"
+
+# Building Categories
+msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE"
+msgid "BASE"
+msgstr "bIng"
+
+msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN"
+msgid "OXYGEN"
+msgstr "bIQtIq"
+
+# Translation info
+msgctxt "STRINGS.UI.FRONTEND.MODS.TRANSLATION"
+msgid "TRANSLATION"
+msgstr "jatlhwI'"
+
+msgctxt "STRINGS.UI.FRONTEND.MODS.TRANSLATION_DESC"
+msgid "Klingon Language Pack"
+msgstr "tlhIngan Hol jatlhwI'"
+
+# Note: Duplicant names are not translated to maintain their original character
+
+# Status Items
+msgctxt "STRINGS.DUPLICANTS.CHORES"
+msgid "IDLE"
+msgstr "Qong"
+
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS"
+msgid "HUNGRY"
+msgstr "vIghung"
+
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS"
+msgid "STRESSED"
+msgstr "QaQHa'
+
+msgctxt "STRINGS.DUPLICANTS.STATUSITEMS"
+msgid "TIRED"
+msgstr "QaQHa'"
+
+# Resources
+msgctxt "ELEMENTS.ALGAE.NAME"
+msgid "ALGAE"
+msgstr "ngat"
+
+msgctxt "ELEMENTS.DIRTYWATER.NAME"
+msgid "POLLUTED WATER"
+msgstr "bIQ Ha'DIbaH"
+
+msgctxt "ELEMENTS.WATER.NAME"
+msgid "WATER"
+msgstr "bIQ"
+
+msgctxt "ELEMENTS.OXYGEN.NAME"
+msgid "OXYGEN"
+msgstr "bIQtIq"
+
+msgctxt "ELEMENTS.CARBONDIOXIDE.NAME"
+msgid "CARBON DIOXIDE"
+msgstr "bIQtIq Ha'DIbaH"
+
+# Buildings
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME"
+msgid "ALGAE TERRARIUM"
+msgstr "ngat juH"
+
+msgctxt "STRINGS.BUILDINGS.PREFABS.OXYGENDIFFUSER.NAME"
+msgid "OXYGEN DIFFUSER"
+msgstr "bIQtIq chenmoHwI'"
+
+# Jobs
+msgctxt "STRINGS.DUPLICANTS.ROLES.DIGGER.NAME"
+msgid "MINER"
+msgstr "nagh yIghIt"
+
+msgctxt "STRINGS.DUPLICANTS.ROLES.BUILDER.NAME"
+msgid "BUILDER"
+msgstr "chenmoHwI'"
+
+# Alerts
+msgctxt "STRINGS.UI.ALERTS"
+msgid "WARNING"
+msgstr "QoH"
+
+msgctxt "STRINGS.UI.ALERTS"
+msgid "DANGER"
+msgstr "QaH"
