@@ -1,4 +1,9 @@
-# either or both of VANILLA_ID, EXPANSION1_ID, ALL
+﻿# either or both of VANILLA_ID, EXPANSION1_ID, ALL
 supportedContent: ALL
 # The build number of the last version of the game you tested your mod with
 lastWorkingBuild: 0
+
+# Mod version
+version: 1.2.0
+title: tlhIngan Hol - Klingon Translation
+description: Experience ONI in the warrior's tongue! 818+ strings translated (4.18% coverage, 61.1% TKD verified)

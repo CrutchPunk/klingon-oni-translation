@@ -6,31 +6,10 @@ A comprehensive Klingon language translation mod for the colony simulation game 
 
 - **Current Coverage**: 818/19,584 strings (~4.18%)
 - **Status**: MASSIVE UPDATE - Doubled content in one session!
-- **Accuracy**: 61.1% verified from The Klingon Dictionary
 - **Language**: Authentic tlhIngan Hol with proper orthography
 - **Last Update**: February 2026 - Biggest update in ONI modding history
 
 ## 🎯 Translation Coverage
-
-### 📊 Accuracy & Quality
-
-#### **Dictionary Verification Results**
-- **61.1% verified** from The Klingon Dictionary (TKD)
-- **33 core vocabulary** 100% canon-verified
-- **21 technical terms** expert-created compounds
-- **Professional standards** with systematic approach
-
-#### **Verified Core Vocabulary (100% Canon)**
-- **Basic Elements**: bIQ (water), HoS (power), baS (metal)
-- **Time & Space**: jaj (day), ram (night), poH (time), logh (space)
-- **Actions**: chen (build), naD (dig), Qap (work), Sop (eat)
-- **Common Nouns**: Soj (food), Huch (money), pong (name), yaS (officer)
-
-#### **Expert-Created Compounds (38.9%)**
-- **Technical Terms**: chay'wI' (generator), qeylI' (pipe)
-- **Scientific Elements**: tlhol (oxygen), tlholQe' (carbon dioxide)
-- **Building Materials**: pIch (aluminum), qoD (glass), qogh (plastic)
-- **Modern Concepts**: batlh (honor), DIch (type), joH (lord)
 
 ### ✅ Completed Systems (MASSIVE EXPANSION)
 
